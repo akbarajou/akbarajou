@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Akbar
-- 👀 I’m interested in computing aplications.
+- 👀 I’m interested in computing applications.
 - 🌱 I’m currently learning C, data structures and algorithm 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 202290398@ajou.uz
